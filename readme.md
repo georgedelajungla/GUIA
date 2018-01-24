@@ -1,9 +1,12 @@
-# Guía de Implementación de GitHub en la empresa
+# Implementación de GitHub
 
-En este repositorio encontrarás todos los pasos a seguir para implementar el nuevo sistema de producción:
+En este repositorio podrás encontrar todos los pasos que debes seguir para adaptar el modelo de producción de tu empresa al entorno de desarrollo creado por GitHub. Este entorno cuenta con las siguientes herramientas:
 
-1. GitHub Enterprise
-2. Github Desktop
-3. Atom
-4. Atom IDE
-5. Atom Telegraph
+	1. GitHub Enterprise
+	2. Github Desktop
+	3. Atom
+	4. Atom IDE
+	5. Atom Telegraph
+
+
+
