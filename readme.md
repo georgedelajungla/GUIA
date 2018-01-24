@@ -7,11 +7,8 @@ En este repositorio podrás encontrar todos los pasos que debes seguir para adap
 	3. Atom
 	4. Atom IDE
 	5. Atom Telegraph
-	
+
 
 ## GitHub Enterprise
 
-
-
-
-
+## GitHub Desktop
