@@ -1,4 +1,4 @@
-# Implementación de GitHub
+# Implementación de GitHub2
 
 En este repositorio podrás encontrar todos los pasos que debes seguir para adaptar el modelo de producción de tu empresa al entorno de desarrollo creado por GitHub. Este entorno cuenta con las siguientes herramientas:
 
